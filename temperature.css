@@ -1,0 +1,38 @@
+body {
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.box{
+    background-color: #ccc;
+    height: 300px;
+    width: 500px;
+    border-radius: 10%;
+}
+h1 {
+	text-align: center;
+}
+
+input[type="number"],
+select {
+	margin-bottom: 10px;
+}
+
+#result {
+	padding: 10px;
+	border: 1px solid #737192;
+	border-radius: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+	margin-top: 20px;
+}
+
+.btn{
+    padding-left: 10px;
+    padding-right: 10px;
+   margin-left: 200px;
+    background-color: #878697;
+    border-radius: 10%;
+}
